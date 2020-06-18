@@ -1,0 +1,324 @@
+[
+  {
+    "beautyroom.angel.photo.editor": {
+      "am_ba": "Rn0pSEgDeaQjcI0NNQY3RR9F4uKcU6qQBMUZE3y635Sn3KrB9oUgJWeeOWGG31aD",
+      "am_in": "Rn0pSEgDeaQjcI0NNQY3RdAwPxprT3rXQQc0V2PZvjZ26wfY+rFIr8Gk9KWK30R+",
+      "am_vi": "Rn0pSEgDeaQjcI0NNQY3Re7Q/PA/T2+nKAMmnCK4XZiGVNVoXAtu59S39Xjjoec/",
+      "am_na": "Rn0pSEgDeaQjcI0NNQY3RdFpMPee9Zckjl6RY9qcT4xcQx336G008pBCmp1eYGP9"
+    }
+  },
+  {
+    "common": {
+      "sticker_type": [
+        "Free",
+        "Premium"
+      ],
+      "sticker": [
+        {
+          "name": "Highlights",
+          "type": "Free",
+          "is_new": "true",
+          "thumb": 16,
+          "icon": "",
+          "extension_demo":"png",
+          "date": 1557166551,
+          "keyword": "sticker",
+          "demo":"https://raw.githubusercontent.com/dataphoto/beautyphoto/master/resource/s/Highlights/thumb/",
+          "cover":"https://raw.githubusercontent.com/dataphoto/beautyphoto/master/resource/s/Highlights/cover.png",
+          "link": "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/libs/codes/Highlights.io",
+          "price": -1
+        },
+        {
+          "name": "Emoji Face",
+          "type": "Free",
+          "is_new": "true",
+          "thumb": 28,
+          "icon": "",
+          "extension_demo":"png",
+          "date": 1571820199,
+          "keyword": "sticker",
+          "tag":["icon","sticker"],
+          "demo":"https://raw.githubusercontent.com/dataphoto/beautyphoto/master/resource/s/Emoji Face/thumb/",
+          "cover":"https://raw.githubusercontent.com/dataphoto/beautyphoto/master/resource/s/Emoji Face/cover.png",
+          "link": "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/libs/codes/Emoji Face.io",
+          "price": -1
+        },
+        {
+          "name": "Makeup",
+          "type": "Free",
+          "is_new": "false",
+          "thumb": 24,
+          "icon": "",
+          "extension_demo":"png",
+          "date": 1507965013,
+          "keyword": "sticker",
+	  "tag":["fashion"],
+          "demo":"https://raw.githubusercontent.com/dataphoto/beautyphoto/master/resource/s/Makeup/thumb/",
+          "cover":"https://raw.githubusercontent.com/dataphoto/beautyphoto/master/resource/s/Makeup/cover.png",
+          "link": "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/libs/codes/Makeup.io",
+          "price": -1
+        },
+        {
+          "name": "Hairstyles",
+          "type": "Free",
+          "is_new": "false",
+          "thumb": 16,
+          "icon": "",
+          "extension_demo":"png",
+          "date": 1598576205,
+          "keyword": "sticker",
+          "demo":"https://raw.githubusercontent.com/dataphoto/beautyphoto/master/resource/s/Hairstyles/thumb/",
+          "cover":"https://raw.githubusercontent.com/dataphoto/beautyphoto/master/resource/s/Hairstyles/cover.png",
+          "link": "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/libs/codes/Hairstyles.io",
+          "price": -1
+        },
+        {
+          "name": "Accessories",
+          "type": "Free",
+          "is_new": "false",
+          "thumb": 16,
+          "extension_demo":"png",
+          "date": 1525178666,
+          "keyword": "sticker",
+          "demo":"https://raw.githubusercontent.com/dataphoto/beautyphoto/master/resource/s/Accessories/thumb/",
+          "cover":"https://raw.githubusercontent.com/dataphoto/beautyphoto/master/resource/s/Accessories/cover.png",
+          "link": "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/libs/codes/Accessories.io",
+          "price": -1
+        },
+        {
+          "name": "Moon",
+          "type": "Free",
+          "is_new": "true",
+          "thumb": 20,
+          "extension_demo":"png",
+          "date": 1533849003,
+          "keyword": "sticker",
+          "demo":"https://raw.githubusercontent.com/dataphoto/beautyphoto/master/resource/s/Moon/thumb/",
+          "cover":"https://raw.githubusercontent.com/dataphoto/beautyphoto/master/resource/s/Moon/cover.png",
+          "link": "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/libs/codes/Moon.io",
+          "price": -1
+        },
+        {
+          "name": "Folk_Hats",
+          "type": "Free",
+          "is_new": "false",
+          "thumb": 16,
+          "extension_demo":"png",
+          "date": 1592938923,
+          "keyword": "sticker",
+          "demo":"https://raw.githubusercontent.com/dataphoto/beautyphoto/master/resource/s/Folk_Hats/thumb/",
+          "cover":"https://raw.githubusercontent.com/dataphoto/beautyphoto/master/resource/s/Folk_Hats/cover.png",
+          "link": "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/libs/codes/Folk_Hats.io",
+          "price": -1
+        },
+        {
+          "name": "Muscles",
+          "type": "Free",
+          "is_new": "false",
+          "thumb": 16,
+	  "tab":["man"],
+          "extension_demo":"png",
+          "date": 1501636963,
+          "keyword": "sticker",
+          "demo":"https://raw.githubusercontent.com/dataphoto/beautyphoto/master/resource/s/Muscles/thumb/",
+          "cover":"https://raw.githubusercontent.com/dataphoto/beautyphoto/master/resource/s/Muscles/cover.png",
+          "link": "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/libs/codes/Muscles.io",
+          "price": -1
+        },
+        {
+          "name": "Shiny Bright",
+          "type": "Free",
+          "is_new": "true",
+          "thumb": 16,
+          "extension_demo":"png",
+          "date": 1517596336,
+          "keyword": "sticker",
+          "demo":"https://raw.githubusercontent.com/dataphoto/beautyphoto/master/resource/s/Shiny Bright/thumb/",
+          "cover":"https://raw.githubusercontent.com/dataphoto/beautyphoto/master/resource/s/Shiny Bright/cover.png",
+          "link": "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/libs/codes/Shiny Bright.io",
+          "price": -1
+        },
+        {
+          "name": "I Love You",
+          "type": "Free",
+          "is_new": "true",
+          "thumb": 16,
+          "extension_demo":"png",
+          "date": 1536571770,
+          "keyword": "sticker",
+          "demo":"https://raw.githubusercontent.com/dataphoto/beautyphoto/master/resource/s/I Love You/thumb/",
+          "cover":"https://raw.githubusercontent.com/dataphoto/beautyphoto/master/resource/s/I Love You/cover.png",
+          "link": "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/libs/codes/I Love You.io",
+          "price": -1
+        },
+        {
+          "name": "Stylish Hats",
+          "type": "Free",
+          "is_new": "false",
+          "thumb": 16,
+          "extension_demo":"png",
+          "date": 1531999797,
+          "keyword": "sticker",
+          "demo":"https://raw.githubusercontent.com/dataphoto/beautyphoto/master/resource/s/Stylish Hats/thumb/",
+          "cover":"https://raw.githubusercontent.com/dataphoto/beautyphoto/master/resource/s/Stylish Hats/cover.png",
+          "link": "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/libs/codes/Stylish Hats.io",
+          "price": -1
+        },
+        {
+          "name": "Alphabe",
+          "type": "Free",
+          "is_new": "true",
+          "thumb": 32,
+          "extension_demo":"png",
+          "date": 1599502139,
+          "keyword": "sticker",
+          "demo":"https://raw.githubusercontent.com/dataphoto/beautyphoto/master/resource/s/Alphabe/thumb/",
+          "cover":"https://raw.githubusercontent.com/dataphoto/beautyphoto/master/resource/s/Alphabe/cover.png",
+          "link": "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/libs/codes/Alphabe.io",
+          "price": -1
+        },
+        {
+          "name": "Holi",
+          "type": "Free",
+          "is_new": "true",
+          "thumb": 16,
+          "extension_demo":"png",
+          "date": 1536045865,
+          "keyword": "sticker",
+          "demo":"https://raw.githubusercontent.com/dataphoto/beautyphoto/master/resource/s/Holi/thumb/",
+          "cover":"https://raw.githubusercontent.com/dataphoto/beautyphoto/master/resource/s/Holi/cover.png",
+          "link": "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/libs/codes/Holi.io",
+          "price": -1
+        },
+        {
+          "name": "Thanks Mom",
+          "type": "Free",
+          "is_new": "true",
+          "thumb": 16,
+          "extension_demo":"png",
+          "date": 1587352088,
+          "keyword": "sticker",
+          "demo":"https://raw.githubusercontent.com/dataphoto/beautyphoto/master/resource/s/Thanks Mom/thumb/",
+          "cover":"https://raw.githubusercontent.com/dataphoto/beautyphoto/master/resource/s/Thanks Mom/cover.png",
+          "link": "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/libs/codes/Thanks Mom.io",
+          "price": -1
+        },
+        {
+          "name": "Sparklers",
+          "type": "Free",
+          "is_new": "true",
+          "thumb": 18,
+          "extension_demo":"png",
+          "date": 1588332278,
+          "keyword": "sticker",
+          "demo":"https://raw.githubusercontent.com/dataphoto/beautyphoto/master/resource/s/Sparklers/thumb/",
+          "cover":"https://raw.githubusercontent.com/dataphoto/beautyphoto/master/resource/s/Sparklers/cover.png",
+          "link": "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/libs/codes/Sparklers.io",
+          "price": -1
+        },
+        {
+          "name": "Best Dad",
+          "type": "Free",
+          "is_new": "false",
+          "thumb": 16,
+          "extension_demo":"png",
+          "date": 1519987359,
+          "keyword": "sticker",
+          "demo":"https://raw.githubusercontent.com/dataphoto/beautyphoto/master/resource/s/Best Dad/thumb/",
+          "cover":"https://raw.githubusercontent.com/dataphoto/beautyphoto/master/resource/s/Best Dad/cover.png",
+          "link": "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/libs/codes/Best Dad.io",
+          "price": -1
+        },
+        {
+          "name": "Trendy Hairstyles",
+          "type": "Free",
+          "is_new": "false",
+          "thumb": 16,
+          "extension_demo":"png",
+          "date": 1583851978,
+          "keyword": "sticker",
+          "demo":"https://raw.githubusercontent.com/dataphoto/beautyphoto/master/resource/s/Trendy Hairstyles/thumb/",
+          "cover":"https://raw.githubusercontent.com/dataphoto/beautyphoto/master/resource/s/Trendy Hairstyles/cover.png",
+          "link": "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/libs/codes/Trendy Hairstyles.io",
+          "price": -1
+        },
+        {
+          "name": "Rainbow",
+          "type": "Free",
+          "is_new": "true",
+          "thumb": 18,
+          "extension_demo":"png",
+          "date": 1559480139,
+          "keyword": "sticker",
+          "demo":"https://raw.githubusercontent.com/dataphoto/beautyphoto/master/resource/s/Rainbow/thumb/",
+          "cover":"https://raw.githubusercontent.com/dataphoto/beautyphoto/master/resource/s/Rainbow/cover.png",
+          "link": "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/libs/codes/Rainbow.io",
+          "price": -1
+        },
+        {
+          "name": "Mommy",
+          "type": "Free",
+          "is_new": "true",
+          "thumb": 16,
+          "extension_demo":"png",
+          "date": 1582586925,
+          "keyword": "sticker",
+          "demo":"https://raw.githubusercontent.com/dataphoto/beautyphoto/master/resource/s/Mommy/thumb/",
+          "cover":"https://raw.githubusercontent.com/dataphoto/beautyphoto/master/resource/s/Mommy/cover.png",
+          "link": "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/libs/codes/Mommy.io",
+          "price": -1
+        },
+	{
+          "name": "Men Tattoos",
+          "type": "Free",
+          "is_new": "false",
+          "thumb": 65,
+	  "tab":["man"],
+          "extension_demo":"png",
+          "date": 1580039589,
+          "keyword": "sticker",
+          "demo":"https://raw.githubusercontent.com/dataphoto/beautyphoto/master/resource/s/Men Tattoos/thumb/",
+          "cover":"https://raw.githubusercontent.com/dataphoto/beautyphoto/master/resource/s/Men Tattoos/cover.png",
+          "link": "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/libs/codes/Men Tattoos.io",
+          "price": -1
+        }
+      ],
+      "frames":
+
+
+
+
+[{"name":"Christmas Frames","type":"Free","is_new":"true","thumb":15,"extension_demo":"png","icon":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/resource/f/Christmas Frames/icon.png","date":1599698140,"keyword":"frame","demo":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/resource/f/Christmas Frames/thumb/","cover":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/resource/f/Christmas Frames/cover.png","link":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/libs/codef/Christmas Frames.io","price":-1},{"name":"New Year Frames","type":"Free","is_new":"true","thumb":15,"extension_demo":"png","icon":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/resource/f/New Year Frames/icon.png","date":1596212669,"keyword":"frame","demo":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/resource/f/New Year Frames/thumb/","cover":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/resource/f/New Year Frames/cover.png","link":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/libs/codef/New Year Frames.io","price":-1},{"name":"Birthday Frames","type":"Free","is_new":"true","thumb":15,"extension_demo":"png","icon":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/resource/f/Birthday Frames/icon.png","date":1592080063,"keyword":"frame","demo":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/resource/f/Birthday Frames/thumb/","cover":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/resource/f/Birthday Frames/cover.png","link":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/libs/codef/Birthday Frames.io","price":-1},{"name":"Romantic Frames","type":"Free","is_new":"true","thumb":15,"extension_demo":"png","icon":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/resource/f/Romantic Frames/icon.png","date":1591241968,"keyword":"frame","demo":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/resource/f/Romantic Frames/thumb/","cover":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/resource/f/Romantic Frames/cover.png","link":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/libs/codef/Romantic Frames.io","price":-1},{"name":"Flower Frames","type":"Free","is_new":"true","thumb":15,"extension_demo":"png","icon":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/resource/f/Flower Frames/icon.png","date":1579010676,"keyword":"frame","demo":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/resource/f/Flower Frames/thumb/","cover":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/resource/f/Flower Frames/cover.png","link":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/libs/codef/Flower Frames.io","price":-1},{"name":"Thanksgiving Frames","type":"Free","is_new":"true","thumb":15,"extension_demo":"png","icon":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/resource/f/Thanksgiving Frames/icon.png","date":1573779116,"keyword":"frame","demo":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/resource/f/Thanksgiving Frames/thumb/","cover":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/resource/f/Thanksgiving Frames/cover.png","link":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/libs/codef/Thanksgiving Frames.io","price":-1},{"name":"Summer Frames","type":"Free","is_new":"true","thumb":15,"extension_demo":"png","icon":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/resource/f/Summer Frames/icon.png","date":1572792255,"keyword":"frame","demo":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/resource/f/Summer Frames/thumb/","cover":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/resource/f/Summer Frames/cover.png","link":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/libs/codef/Summer Frames.io","price":-1},{"name":"Animal Frames","type":"Free","is_new":"true","thumb":15,"extension_demo":"png","icon":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/resource/f/Animal Frames/icon.png","date":1566088101,"keyword":"frame","demo":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/resource/f/Animal Frames/thumb/","cover":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/resource/f/Animal Frames/cover.png","link":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/libs/codef/Animal Frames.io","price":-1},{"name":"City frames","type":"Free","is_new":"true","thumb":15,"extension_demo":"png","icon":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/resource/f/City frames/icon.png","date":1557169052,"keyword":"frame","demo":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/resource/f/City frames/thumb/","cover":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/resource/f/City frames/cover.png","link":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/libs/codef/City frames.io","price":-1},{"name":"Desert frames","type":"Free","is_new":"true","thumb":15,"extension_demo":"png","icon":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/resource/f/Desert frames/icon.png","date":1552674499,"keyword":"frame","demo":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/resource/f/Desert frames/thumb/","cover":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/resource/f/Desert frames/cover.png","link":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/libs/codef/Desert frames.io","price":-1},{"name":"Mountain Frames","type":"Free","is_new":"true","thumb":15,"extension_demo":"png","icon":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/resource/f/Mountain Frames/icon.png","date":1552008914,"keyword":"frame","demo":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/resource/f/Mountain Frames/thumb/","cover":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/resource/f/Mountain Frames/cover.png","link":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/libs/codef/Mountain Frames.io","price":-1},{"name":"Snowfall Frames","type":"Free","is_new":"true","thumb":15,"extension_demo":"png","icon":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/resource/f/Snowfall Frames/icon.png","date":1545385550,"keyword":"frame","demo":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/resource/f/Snowfall Frames/thumb/","cover":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/resource/f/Snowfall Frames/cover.png","link":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/libs/codef/Snowfall Frames.io","price":-1},{"name":"Waterfall Frames","type":"Free","is_new":"true","thumb":15,"extension_demo":"png","icon":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/resource/f/Waterfall Frames/icon.png","date":1545260629,"keyword":"frame","demo":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/resource/f/Waterfall Frames/thumb/","cover":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/resource/f/Waterfall Frames/cover.png","link":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/libs/codef/Waterfall Frames.io","price":-1},{"name":"Nature Frames","type":"Free","is_new":"true","thumb":15,"extension_demo":"png","icon":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/resource/f/Nature Frames/icon.png","date":1543805911,"keyword":"frame","demo":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/resource/f/Nature Frames/thumb/","cover":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/resource/f/Nature Frames/cover.png","link":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/libs/codef/Nature Frames.io","price":-1},{"name":"Halloween Frames","type":"Free","is_new":"true","thumb":15,"extension_demo":"png","icon":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/resource/f/Halloween Frames/icon.png","date":1538444554,"keyword":"frame","demo":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/resource/f/Halloween Frames/thumb/","cover":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/resource/f/Halloween Frames/cover.png","link":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/libs/codef/Halloween Frames.io","price":-1},{"name":"Love frames","type":"Free","is_new":"true","thumb":15,"extension_demo":"png","icon":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/resource/f/Love frames/icon.png","date":1533241468,"keyword":"frame","demo":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/resource/f/Love frames/thumb/","cover":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/resource/f/Love frames/cover.png","link":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/libs/codef/Love frames.io","price":-1},{"name":"Birthday Cake Frames","type":"Free","is_new":"true","thumb":15,"extension_demo":"png","icon":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/resource/f/Birthday Cake Frames/icon.png","date":1532827305,"keyword":"frame","demo":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/resource/f/Birthday Cake Frames/thumb/","cover":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/resource/f/Birthday Cake Frames/cover.png","link":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/libs/codef/Birthday Cake Frames.io","price":-1},{"name":"Mother frames","type":"Free","is_new":"true","thumb":15,"extension_demo":"png","icon":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/resource/f/Mother frames/icon.png","date":1531789452,"keyword":"frame","demo":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/resource/f/Mother frames/thumb/","cover":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/resource/f/Mother frames/cover.png","link":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/libs/codef/Mother frames.io","price":-1},{"name":"Woman frames","type":"Free","is_new":"true","thumb":15,"extension_demo":"png","icon":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/resource/f/Woman frames/icon.png","date":1519469429,"keyword":"frame","demo":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/resource/f/Woman frames/thumb/","cover":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/resource/f/Woman frames/cover.png","link":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/libs/codef/Woman frames.io","price":-1},{"name":"Valentine frames","type":"Free","is_new":"true","thumb":15,"extension_demo":"png","icon":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/resource/f/Valentine frames/icon.png","date":1517683487,"keyword":"frame","demo":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/resource/f/Valentine frames/thumb/","cover":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/resource/f/Valentine frames/cover.png","link":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/libs/codef/Valentine frames.io","price":-1},{"name":"Father frames","type":"Free","is_new":"true","thumb":15,"extension_demo":"png","icon":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/resource/f/Father frames/icon.png","date":1501416982,"keyword":"frame","demo":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/resource/f/Father frames/thumb/","cover":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/resource/f/Father frames/cover.png","link":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/libs/codef/Father frames.io","price":-1},{"name":"Wedding Frames","type":"Free","is_new":"true","thumb":15,"extension_demo":"png","icon":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/resource/f/Wedding Frames/icon.png","date":1500804848,"keyword":"frame","demo":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/resource/f/Wedding Frames/thumb/","cover":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/resource/f/Wedding Frames/cover.png","link":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/libs/codef/Wedding Frames.io","price":-1}]
+
+
+
+
+
+,
+        "bg":
+
+
+
+
+
+[{"name":"Polaroid Photo Paper","type":"Free","is_new":"true","thumb":8,"extension_demo":"jpg","icon":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/resource/bg/Polaroid Photo Paper/icon.jpg","date":1539215420,"keyword":"background","demo":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/resource/bg/Polaroid Photo Paper/thumb/","cover":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/resource/bg/Polaroid Photo Paper/cover.jpg","link":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/libs/codebg/Polaroid Photo Paper.io","price":-1},{"name":"Magic World","type":"Free","is_new":"true","thumb":16,"extension_demo":"jpg","icon":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/resource/bg/Magic World/icon.jpg","date":1511992767,"keyword":"background","demo":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/resource/bg/Magic World/thumb/","cover":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/resource/bg/Magic World/cover.jpg","link":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/libs/codebg/Magic World.io","price":-1},{"name":"Dangerous Desert","type":"Free","is_new":"true","thumb":15,"extension_demo":"jpg","icon":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/resource/bg/Dangerous Desert/icon.jpg","date":1521336431,"keyword":"background","demo":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/resource/bg/Dangerous Desert/thumb/","cover":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/resource/bg/Dangerous Desert/cover.jpg","link":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/libs/codebg/Dangerous Desert.io","price":-1},{"name":"Swirl Shot","type":"Free","is_new":"true","thumb":10,"extension_demo":"jpg","icon":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/resource/bg/Swirl Shot/icon.jpg","date":1530253872,"keyword":"background","demo":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/resource/bg/Swirl Shot/thumb/","cover":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/resource/bg/Swirl Shot/cover.jpg","link":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/libs/codebg/Swirl Shot.io","price":-1},{"name":"Flower Wall","type":"Free","is_new":"true","thumb":7,"extension_demo":"jpg","icon":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/resource/bg/Flower Wall/icon.jpg","date":1564364942,"keyword":"background","demo":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/resource/bg/Flower Wall/thumb/","cover":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/resource/bg/Flower Wall/cover.jpg","link":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/libs/codebg/Flower Wall.io","price":-1},{"name":"Fireworks","type":"Free","is_new":"true","thumb":10,"extension_demo":"jpg","icon":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/resource/bg/Fireworks/icon.jpg","date":1534341838,"keyword":"background","demo":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/resource/bg/Fireworks/thumb/","cover":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/resource/bg/Fireworks/cover.jpg","link":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/libs/codebg/Fireworks.io","price":-1},{"name":"Fashion","type":"Free","is_new":"true","thumb":19,"extension_demo":"jpg","icon":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/resource/bg/Fashion/icon.jpg","date":1592601677,"keyword":"background","demo":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/resource/bg/Fashion/thumb/","cover":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/resource/bg/Fashion/cover.jpg","link":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/libs/codebg/Fashion.io","price":-1},{"name":"Splendid Sydney","type":"Free","is_new":"true","thumb":15,"extension_demo":"jpg","icon":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/resource/bg/Splendid Sydney/icon.jpg","date":1543626162,"keyword":"background","demo":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/resource/bg/Splendid Sydney/thumb/","cover":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/resource/bg/Splendid Sydney/cover.jpg","link":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/libs/codebg/Splendid Sydney.io","price":-1},{"name":"Video Game Saga","type":"Free","is_new":"true","thumb":13,"extension_demo":"jpg","icon":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/resource/bg/Video Game Saga/icon.jpg","date":1543759811,"keyword":"background","demo":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/resource/bg/Video Game Saga/thumb/","cover":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/resource/bg/Video Game Saga/cover.jpg","link":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/libs/codebg/Video Game Saga.io","price":-1},{"name":"Subsea Tunnel","type":"Free","is_new":"true","thumb":8,"extension_demo":"jpg","icon":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/resource/bg/Subsea Tunnel/icon.jpg","date":1521606294,"keyword":"background","demo":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/resource/bg/Subsea Tunnel/thumb/","cover":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/resource/bg/Subsea Tunnel/cover.jpg","link":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/libs/codebg/Subsea Tunnel.io","price":-1},{"name":"Vintage Car","type":"Free","is_new":"true","thumb":17,"extension_demo":"jpg","icon":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/resource/bg/Vintage Car/icon.jpg","date":1599215795,"keyword":"background","demo":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/resource/bg/Vintage Car/thumb/","cover":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/resource/bg/Vintage Car/cover.jpg","link":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/libs/codebg/Vintage Car.io","price":-1},{"name":"Famous Painting","type":"Free","is_new":"true","thumb":8,"extension_demo":"jpg","icon":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/resource/bg/Famous Painting/icon.jpg","date":1508987078,"keyword":"background","demo":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/resource/bg/Famous Painting/thumb/","cover":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/resource/bg/Famous Painting/cover.jpg","link":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/libs/codebg/Famous Painting.io","price":-1},{"name":"Coloful House","type":"Free","is_new":"true","thumb":8,"extension_demo":"jpg","icon":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/resource/bg/Coloful House/icon.jpg","date":1568135006,"keyword":"background","demo":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/resource/bg/Coloful House/thumb/","cover":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/resource/bg/Coloful House/cover.jpg","link":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/libs/codebg/Coloful House.io","price":-1},{"name":"Beautiful Butterflies","type":"Free","is_new":"true","thumb":15,"extension_demo":"jpg","icon":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/resource/bg/Beautiful Butterflies/icon.jpg","date":1517577359,"keyword":"background","demo":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/resource/bg/Beautiful Butterflies/thumb/","cover":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/resource/bg/Beautiful Butterflies/cover.jpg","link":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/libs/codebg/Beautiful Butterflies.io","price":-1},{"name":"Cruise Ship","type":"Free","is_new":"true","thumb":11,"extension_demo":"jpg","icon":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/resource/bg/Cruise Ship/icon.jpg","date":1524746520,"keyword":"background","demo":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/resource/bg/Cruise Ship/thumb/","cover":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/resource/bg/Cruise Ship/cover.jpg","link":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/libs/codebg/Cruise Ship.io","price":-1},{"name":"Summer Time","type":"Free","is_new":"true","thumb":8,"extension_demo":"jpg","icon":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/resource/bg/Summer Time/icon.jpg","date":1500961824,"keyword":"background","demo":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/resource/bg/Summer Time/thumb/","cover":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/resource/bg/Summer Time/cover.jpg","link":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/libs/codebg/Summer Time.io","price":-1},{"name":"Gully Gang","type":"Free","is_new":"true","thumb":15,"extension_demo":"jpg","icon":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/resource/bg/Gully Gang/icon.jpg","date":1555613083,"keyword":"background","demo":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/resource/bg/Gully Gang/thumb/","cover":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/resource/bg/Gully Gang/cover.jpg","link":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/libs/codebg/Gully Gang.io","price":-1},{"name":"Sports Ever","type":"Free","is_new":"true","thumb":15,"extension_demo":"jpg","icon":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/resource/bg/Sports Ever/icon.jpg","date":1546723366,"keyword":"background","demo":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/resource/bg/Sports Ever/thumb/","cover":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/resource/bg/Sports Ever/cover.jpg","link":"https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/libs/codebg/Sports Ever.io","price":-1}]
+
+
+
+
+
+
+
+,
+      "configs": {
+        "material_bg_cover_color": "",
+        "material_bg_demo_color": "",
+        "home_list_size": 12,
+      "ads_app": "https://raw.githubusercontent.com/datapoli/beautyroomhuawei/master/ads/ads.json",
+	"first_ads_position_shop":1,
+	"loop_ads_position_shop":4,
+	"load_more_shop":20
+      }
+    }
+  }
+]
