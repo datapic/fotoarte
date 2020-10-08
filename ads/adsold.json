@@ -1,9 +1,9 @@
 {
   "icon" : "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/ads/icon.png",
-  "cover" : "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/ads/poster.jpg", 
-  "appName" : "Heart Crown Photo Editor",
-  "shortDecripsion" : "Look cute girl with hundred of heart crown effect",
-  "package" : "beautyroom.heart.crown.editor",
+  "cover" : "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/ads/graphic.png", 
+  "appName" : "Face Emoji Photo Editor",
+  "shortDecripsion" : "Smoothen your beauty in selfie pictures",
+  "package" : "beauty.picshop.face.emoji.photo.editor",
   "link" : "",
   "actionText" : "VISIT APP"
 }
