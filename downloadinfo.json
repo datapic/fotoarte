@@ -17,6 +17,7 @@
   },
   {
     "common": {
+      "hide_ad_home":true,
       "sticker_type": [
         "Free",
         "Premium"
