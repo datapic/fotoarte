@@ -1,10 +1,16 @@
 [
   {
     "foto.arte.selfie.camera.filter": {
+      "ads_list": ["fb","am"],
       "am_ba": "JJENYoxrqlOdoqkenNVJMwJZAXftOBU48aOazT532EU4p2Z821QyUPGoFD5EiggX",
       "am_in": "JJENYoxrqlOdoqkenNVJM7RhLFztBdQpFmvQKbTwReNzodriiTfWO71B2IheOxGv",
       "am_vi": "",
-      "am_na": "JJENYoxrqlOdoqkenNVJM4n/PkzUWqgqdQ0ae8+hxL34ayypLAuvilB2+HAYpv8e"
+      "am_na": "JJENYoxrqlOdoqkenNVJM4n/PkzUWqgqdQ0ae8+hxL34ayypLAuvilB2+HAYpv8e",
+
+      "fb_ba": "UFFYq+6TpKnk88XW4+UwT+6HDw1e8tLSxwn8CVzI9BA=",
+      "fb_in": "UFFYq+6TpKnk88XW4+UwTyphB7WU9l6GDz5UEPIXhZ8=",
+      "fb_re": "UFFYq+6TpKnk88XW4+UwTwDPot10l97xB6VSQFrmuto=",
+      "fb_na": "UFFYq+6TpKnk88XW4+UwT/a1YRpSwycxeirt7mD7n2w="
     }
   },
   {
