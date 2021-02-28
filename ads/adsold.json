@@ -1,9 +1,9 @@
 {
-  "icon" : "https://raw.githubusercontent.com/datapic/fotoarte/master/ads/icon.png",
-  "cover" : "https://raw.githubusercontent.com/datapic/fotoarte/master/ads/graphic.png", 
-  "appName" : "Emoji Background Photo Editor",
-  "shortDecripsion" : "Make your photo suppoer kawaii and cute with a thousand of emoji, light crown, dog face, sweet face...",
-  "package" : "sweet.candy.emoji.background.photo.editor",
+  "icon" : "https://raw.githubusercontent.com/datapic/fotoarte/master/ads/icon1.png",
+  "cover" : "https://raw.githubusercontent.com/datapic/fotoarte/master/ads/poster1.png", 
+  "appName" : "Filters for Snapchat",
+  "shortDecripsion" : "Snapchat Filters for fantastic photos with Funny face filters. FREE for a limited time!",
+  "package" : "sweet.snap.live.filters.snapchat",
   "link" : "",
   "actionText" : "VISIT APP"
 }
