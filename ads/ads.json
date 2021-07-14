@@ -1,21 +1,21 @@
 {
   "adsApp": [
     {
-      "icon": "https://raw.githubusercontent.com/datapic/fotoarte/master/ads/icon.png",
-      "cover": "https://raw.githubusercontent.com/datapic/fotoarte/master/ads/graphic.png",
-      "appName": "Sweet Camera Selfie Filters",
-      "description": "Lets you edit your pictures to make them looks super kawaii and cute with a thousand of emoji (light crown, dog face, heart face, sweet face...)",
-      "package": "com.photo.beauty.plus.sweet.camera.selfie.filters",
-      "link": "",
-      "actionText": "VISIT APP",
-      "type": "app"
-    },
-    {
       "icon": "https://raw.githubusercontent.com/datapic/fotoarte/master/ads/icon1.png",
       "cover": "https://raw.githubusercontent.com/datapic/fotoarte/master/ads/graphic1.png",
       "appName": "Album Cover Maker",
       "description": "Design the covers of your album cover maker using advanced feature and stylish filters to make your music a hit.",
       "package": "com.photo.beauty.plus.album.cover",
+      "link": "",
+      "actionText": "VISIT APP",
+      "type": "app"
+    },
+    {
+      "icon": "https://raw.githubusercontent.com/datapic/fotoarte/master/ads/icon.png",
+      "cover": "https://raw.githubusercontent.com/datapic/fotoarte/master/ads/graphic.png",
+      "appName": "Sweet Camera Selfie Filters",
+      "description": "Lets you edit your pictures to make them looks super kawaii and cute with a thousand of emoji (light crown, dog face, heart face, sweet face...)",
+      "package": "com.photo.beauty.plus.sweet.camera.selfie.filters",
       "link": "",
       "actionText": "VISIT APP",
       "type": "app"
