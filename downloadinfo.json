@@ -1,5 +1,13 @@
 [
     {
+    "com.squid.game.wallpaper.HD4k": {
+      "ads_list": ["mp"],
+
+      "mp_ba": "fla85CBrpeKed7r6lvAYYYov3g/6+dGhuQbgyH3Omfrhzq7cH02hnc5AtyhbdqqT",
+      "mp_in": "0BLdX6SWpFsLQDkHOo8vCCrRwX9pKxe9jup+GO9lwzfsTdPmhC+V+axvrZQYOzEN"
+      }
+    },
+    {
     "foto.arte.selfie.camera.filter.beauty": {
       "ads_list": ["fb", "mp", "am"],
       "am_ba": "JJENYoxrqlOdoqkenNVJMwQxKxjIno1XJyH+Intd+pgslvr9eVfL6T8YviSZlGxe",
