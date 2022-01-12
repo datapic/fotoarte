@@ -1,7 +1,7 @@
 [
     {
     "foto.arte.selfie.camera.filter.beauty": {
-      "ads_list": ["fb", "mp", "am"],
+      "ads_list": ["mp", "fb", "am"],
       "am_ba": "JJENYoxrqlOdoqkenNVJMwQxKxjIno1XJyH+Intd+pgslvr9eVfL6T8YviSZlGxe",
       "am_in": "JJENYoxrqlOdoqkenNVJM+gqk3I5sSL0csuqkqeo64Sif6bKN46VNiNzamaxs+j0",
       "am_vi": "JJENYoxrqlOdoqkenNVJMzo7EF50hIWQWPnGT+t11FWmtIxKMz+Offi9qGFbLK9F",
@@ -20,7 +20,7 @@
   },
   {
     "foto.arte.selfie.camera.filter": {
-      "ads_list": ["fb", "am"],
+      "ads_list": ["am", "fb"],
       "am_ba": "JJENYoxrqlOdoqkenNVJM4v5tXZ6Lve0IgKSiXN3XVLdGubUj+qiQwjOGPfmzKXv",
       "am_in": "JJENYoxrqlOdoqkenNVJM2mxgNqKGLraS7zF1vrDBLX8lw0eVHNMRh5/a0c43sL/",
       "am_vi": "JJENYoxrqlOdoqkenNVJM3opPZ0oUDMPEmUjyx5wuipbvWGRXTON2xyyghN4H14J",
