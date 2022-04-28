@@ -20,6 +20,15 @@
     }
   },
   {
+    "filters.selfies.foto.art": {
+      "ads_list": ["al"],
+
+      "al_ba": "cKdwbzx3BFJkjiaKKtlfLoyfkoWkvmWmJQw4CzmSDLI=",
+      "al_in": "Sm9fUf0HVqrL9goIwW8MRExtZ1qZzNw2tGiizLHmRvk=",
+      "al_re": "SwPDjAHb35Tzr8ZJTF2zazbZmUk1htncNcUHC32Rb8I="
+    }
+  },
+  {
     "foto.arte.selfie.camera.filter": {
       "ads_list": ["fb"],
 
