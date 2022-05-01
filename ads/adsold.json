@@ -1,9 +1,9 @@
 {
-  "icon" : "https://raw.githubusercontent.com/datapic/fotoarte/master/ads/icon1.png",
-  "cover" : "https://raw.githubusercontent.com/datapic/fotoarte/master/ads/poster1.png", 
-  "appName" : "Filters for Snapchat",
+  "icon" : "https://raw.githubusercontent.com/datapic/fotoarte/master/ads/icon3.png",
+  "cover" : "https://raw.githubusercontent.com/datapic/fotoarte/master/ads/graphic3.png", 
+  "appName" : "Sweet Snop Face Camera",
   "shortDecripsion" : "Snapchat Filters for fantastic photos with Funny face filters. FREE for a limited time!",
-  "package" : "sweet.snap.live.filters.snapchat",
+  "package" : "sweet.snap.face.camera.art",
   "link" : "",
   "actionText" : "VISIT APP"
 }

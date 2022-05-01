@@ -1,6 +1,15 @@
 {
   "adsApp": [
     {
+      "icon": "https://raw.githubusercontent.com/datapic/fotoarte/master/ads/icon3.png",
+      "cover": "https://raw.githubusercontent.com/datapic/fotoarte/master/ads/graphic3.png",
+      "appName": "Sweet Snop Face Camera",
+      "description": "Has given you the chance to look super kawaii with hundred of emoji background, light crown, dog face, heart face, sweet face...",
+      "package": "sweet.snap.face.camera.art",
+      "link": "",
+      "actionText": "VISIT APP",
+      "type": "app"
+    },{
       "icon": "https://raw.githubusercontent.com/datapic/fotoarte/master/ads/icon1.png",
       "cover": "https://raw.githubusercontent.com/datapic/fotoarte/master/ads/graphic1.png",
       "appName": "Live Face Sticker",
@@ -16,16 +25,6 @@
       "appName": "Filters for Pictures",
       "description": "Lets you edit your pictures to make them looks super kawaii and cute with a thousand of emoji (light crown, dog face, heart face, sweet face...)",
       "package": "com.photo.beauty.plus.filters.pictures",
-      "link": "",
-      "actionText": "VISIT APP",
-      "type": "app"
-    },
-    {
-      "icon": "https://raw.githubusercontent.com/datapic/fotoarte/master/ads/icon3.png",
-      "cover": "https://raw.githubusercontent.com/datapic/fotoarte/master/ads/graphic3.png",
-      "appName": "Neon Photo Editor",
-      "description": "Has given you the chance to look super kawaii with hundred of emoji background, light crown, dog face, heart face, sweet face...",
-      "package": "neon.light.photo.editor",
       "link": "",
       "actionText": "VISIT APP",
       "type": "app"
