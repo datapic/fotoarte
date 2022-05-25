@@ -1,6 +1,15 @@
 {
   "adsApp": [
     {
+      "icon": "https://raw.githubusercontent.com/datapic/fotoarte/master/ads/icon.png",
+      "cover": "https://raw.githubusercontent.com/datapic/fotoarte/master/ads/graphic.png",
+      "appName": "Sweet Beauty Camera",
+      "description": "Lets you edit your pictures to make them looks super kawaii and cute with a thousand of emoji (light crown, dog face, heart face, sweet face...)",
+      "package": "sweet.beauty.cam.toanhmsg",
+      "link": "",
+      "actionText": "VISIT APP",
+      "type": "app"
+    },{
       "icon": "https://raw.githubusercontent.com/datapic/fotoarte/master/ads/icon3.png",
       "cover": "https://raw.githubusercontent.com/datapic/fotoarte/master/ads/graphic3.png",
       "appName": "Sweet Snop Face Camera",
@@ -15,16 +24,6 @@
       "appName": "Live Face Sticker",
       "description": "Live Face Sticker: Transform yourself into a charming queen in pictures or al look like a cute girl within few seconds!",
       "package": "com.sweet.camera.selfie.sweet.snap.live.face.sticker",
-      "link": "",
-      "actionText": "VISIT APP",
-      "type": "app"
-    },
-    {
-      "icon": "https://raw.githubusercontent.com/datapic/fotoarte/master/ads/icon.png",
-      "cover": "https://raw.githubusercontent.com/datapic/fotoarte/master/ads/graphic.png",
-      "appName": "Filters for Pictures",
-      "description": "Lets you edit your pictures to make them looks super kawaii and cute with a thousand of emoji (light crown, dog face, heart face, sweet face...)",
-      "package": "com.photo.beauty.plus.filters.pictures",
       "link": "",
       "actionText": "VISIT APP",
       "type": "app"
