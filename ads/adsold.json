@@ -1,9 +1,9 @@
 {
-  "icon" : "https://raw.githubusercontent.com/datapic/fotoarte/master/ads/icon.png",
-  "cover" : "https://raw.githubusercontent.com/datapic/fotoarte/master/ads/graphic.png", 
-  "appName" : "Sweet Beauty Camera",
-  "shortDecripsion" : "Sweet Beauty Camera for fantastic photos with Funny face filters. FREE for a limited time!",
-  "package" : "sweet.beauty.cam.toanhmsg",
+  "icon" : "https://raw.githubusercontent.com/datapic/fotoarte/master/ads/icon1.png",
+  "cover" : "https://raw.githubusercontent.com/datapic/fotoarte/master/ads/graphic1.png", 
+  "appName" : "Neon Horns Devil",
+  "shortDecripsion" : "Neon Horns Devil for fantastic photos with Funny face filters. FREE for a limited time!",
+  "package" : "neon.horns.devil",
   "link" : "",
   "actionText" : "VISIT APP"
 }
