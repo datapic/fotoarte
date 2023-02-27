@@ -21,9 +21,14 @@
   },
   {
     "foto.arte.hair.color.changer": {
-      "ads_list": ["is"],
+      "am_ba": "JJENYoxrqlOdoqkenNVJM1i2HhQpBcsXShLnpdzpikkz6xISyHNSY0Y/e69+MMAt",
+      "am_in": "JJENYoxrqlOdoqkenNVJM+LbMGaNYfz9uKSgChCW4MQ6KPOrB+6MeiT27M2+tYKm",
+      "am_vi": "",
+      "am_na": "JJENYoxrqlOdoqkenNVJM98IwPzdI5O3BG4ShYZRxZ1qzZXYkG8oYT0Qdturs1CI",
 
-      "is_id": "Z/DE5DqUmJYm7762rf5TYg=="
+      "interval": 60000,
+
+      "ads_list": ["am"]
     }
   },
   {
