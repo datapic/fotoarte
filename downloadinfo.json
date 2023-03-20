@@ -33,7 +33,14 @@
   },
   {
     "filters.selfies.foto.art": {
-      "ads_list": ["al"],
+      "ads_list": ["am", "al"],
+
+      "am_ba": "",
+      "am_in": "usohtYkgyLSv0fFuuWWnPSKly2rOR1M9ibD93a5/LGxwjBTnyXTk5iDXBSXcF0rO",
+      "am_vi": "",
+      "am_na": "",
+
+      "interval": 60000,
 
       "al_ba": "cKdwbzx3BFJkjiaKKtlfLoyfkoWkvmWmJQw4CzmSDLI=",
       "al_in": "Sm9fUf0HVqrL9goIwW8MRExtZ1qZzNw2tGiizLHmRvk=",
