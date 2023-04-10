@@ -1,9 +1,9 @@
 {
-  "icon" : "https://raw.githubusercontent.com/datapic/fotoarte/master/ads/icon.png",
-  "cover" : "https://raw.githubusercontent.com/datapic/fotoarte/master/ads/graphic.png", 
-  "appName" : "Selfie Camera Filter",
-  "shortDecripsion" : "Filters for pictures for fantastic photos with Funny face filters. FREE for a limited time!",
-  "package" : "selfie.camera.filter",
+  "icon" : "https://raw.githubusercontent.com/datapic/fotoarte/master/ads/icon1.png",
+  "cover" : "https://raw.githubusercontent.com/datapic/fotoarte/master/ads/graphic1.png", 
+  "appName" : "Live Face Sticker",
+  "shortDecripsion" : "Live Face Sticker is a powerful editor that has many amazing effects and filters.",
+  "package" : "mobility.studio.live.face.sticker.sweet.camera",
   "link" : "",
   "actionText" : "VISIT APP"
 }
