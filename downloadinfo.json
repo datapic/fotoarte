@@ -21,6 +21,18 @@
   },
   {
     "foto.arte.hair.color.changer": {
+      "am_ba": "GJSDue6PJgpUPhceM0fKgdHHLz1kbeZIKOBl6wshP1TZM0Hf2SalSC6iFDCdw6rD",
+      "am_in": "GJSDue6PJgpUPhceM0fKgVjny33xOmffhonW5S/fXDRrX0SpBSPktMBpEklmVaTl",
+      "am_vi": "",
+      "am_na": "GJSDue6PJgpUPhceM0fKgU1RBJennxYYPsl9jLSZsOIv3c8vHyi8hGdkMsQAMjA4",
+
+      "interval": 60000,
+
+      "ads_list": ["am"]
+    }
+  },
+  {
+    "foto.arte.hair.color.changer.bk": {
       "am_ba": "JJENYoxrqlOdoqkenNVJM1i2HhQpBcsXShLnpdzpikkz6xISyHNSY0Y/e69+MMAt",
       "am_in": "JJENYoxrqlOdoqkenNVJM+LbMGaNYfz9uKSgChCW4MQ6KPOrB+6MeiT27M2+tYKm",
       "am_vi": "",
@@ -33,6 +45,22 @@
   },
   {
     "filters.selfies.foto.art": {
+      "ads_list": ["am", "al"],
+
+      "am_ba": "GJSDue6PJgpUPhceM0fKgT8WmTWKrEUYsONd6YF8yif7ZBHIMm/4ctSENZnqFDIB",
+      "am_in": "GJSDue6PJgpUPhceM0fKgecKobzi+/Uas5FDJRs8xUjOsZUOuUyaoGWSZvE7QPNm",
+      "am_vi": "",
+      "am_na": "GJSDue6PJgpUPhceM0fKgYtWpsBUEsNMm3tEMOv7jwSOeAVnGANwvsXRjK0J4OK0",
+
+      "interval": 45000,
+
+      "al_ba": "cKdwbzx3BFJkjiaKKtlfLoyfkoWkvmWmJQw4CzmSDLI=",
+      "al_in": "Sm9fUf0HVqrL9goIwW8MRExtZ1qZzNw2tGiizLHmRvk=",
+      "al_re": "SwPDjAHb35Tzr8ZJTF2zazbZmUk1htncNcUHC32Rb8I="
+    }
+  },
+  {
+    "filters.selfies.foto.art.bk": {
       "ads_list": ["al"],
 
       "am_ba": "",
