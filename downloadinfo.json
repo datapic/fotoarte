@@ -32,6 +32,20 @@
     }
   },
   {
+    "filters.snap.foto.art": {
+      "am_ba": "",
+      "am_in": "Z0YFp5EGCbzpadN97rLixB0FtUCE44k+2/cSUe3aKzleGQroS7gXAH+i11+OGYo6",
+      "am_vi": "",
+      "am_na": "",
+
+      "app_id": "ca-app-pub-5928169493173258~5236093074",
+
+      "interval": 60000,
+
+      "ads_list": ["am"]
+    }
+  },
+  {
     "filters.selfies.foto.art": {
       "ads_list": ["al"],
 
