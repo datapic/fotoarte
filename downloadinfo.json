@@ -20,6 +20,23 @@
     }
   },
   {
+    "filter.sweet.camera": {
+      "is_id": "",
+
+      "am_ba": "ca-app-pub-3940256099942544/6300978111",
+      "am_in": "ca-app-pub-1113697086569953/7066152599",
+      "am_na": "ca-app-pub-3940256099942544/2247696110",
+      
+      "app_id": "ca-app-pub-2072952182696305~5556332986",
+
+      "interval": 10000,
+
+      "inf" : "data/filtersweet/inf",
+
+      "ads_list": ["am"]
+    }
+  },
+  {
     "foto.arte.hair.color.changer": {
       "am_ba": "JJENYoxrqlOdoqkenNVJM1i2HhQpBcsXShLnpdzpikkz6xISyHNSY0Y/e69+MMAt",
       "am_in": "JJENYoxrqlOdoqkenNVJM+LbMGaNYfz9uKSgChCW4MQ6KPOrB+6MeiT27M2+tYKm",
