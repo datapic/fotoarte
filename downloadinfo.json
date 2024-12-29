@@ -38,6 +38,20 @@
   },
   {
     "foto.arte.hair.color.changer": {
+      "am_ba": "",
+      "am_in": "BbQsE5TSINqjGcoamaLtcddC1pRfVSMtlRYuQdLiHr7dpcO1P78IdOY1hlEPrG5C",
+      "am_vi": "",
+      "am_na": "",
+
+      "app_id": "ca-app-pub-1113697086569953~6795400297",
+
+      "interval": 45000,
+
+      "ads_list": ["am"]
+    }
+  },
+  {
+    "foto.arte.hair.color.changer.bk": {
       "am_ba": "JJENYoxrqlOdoqkenNVJM1i2HhQpBcsXShLnpdzpikkz6xISyHNSY0Y/e69+MMAt",
       "am_in": "JJENYoxrqlOdoqkenNVJM+LbMGaNYfz9uKSgChCW4MQ6KPOrB+6MeiT27M2+tYKm",
       "am_vi": "",
